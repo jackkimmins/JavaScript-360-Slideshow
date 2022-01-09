@@ -1,3 +1,5 @@
+console.log("Loaded main.js");
+
 let lon = 90, lat = -20, phi = 0, theta = 0, fov = 60;
 
 //Initialises the 3D space.
