@@ -37,13 +37,13 @@ function Shuffle(array) {
 //Loads the 360s.
 let tLoader = new THREE.TextureLoader(manager);
 let textures = [
-    tLoader.load("img/pano/1.JPG"),
-    tLoader.load("img/pano/2.JPG"),
-    tLoader.load("img/pano/3.JPG"),
-    tLoader.load("img/pano/4.JPG"),
-    tLoader.load("img/pano/5.JPG"),
-    tLoader.load("img/pano/6.JPG"),
-    tLoader.load("img/pano/7.JPG")
+    tLoader.load("1.JPG"),
+    tLoader.load("2.JPG"),
+    tLoader.load("3.JPG"),
+    tLoader.load("4.JPG"),
+    tLoader.load("5.JPG"),
+    tLoader.load("6.JPG"),
+    tLoader.load("7.JPG")
 ];
 
 //Shuffles the textures.
